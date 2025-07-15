@@ -32,7 +32,8 @@ Sysmon (System Monitor by Microsoft Sysinternals) was used to log process creati
 
 Checked Event ID 1 under the Sysmon Operational Log in Event Viewer.
 
-<img width="1024" height="768" alt="23_28_24_powershell screenshot" src="https://github.com/user-attachments/assets/50e60a33-e675-4707-942b-3dcac7442e31" />
+<img width="1920" height="1014" alt="sysmon-project3" src="https://github.com/user-attachments/assets/ee41ed02-829f-4942-96ad-30290284e142" />
+
 
 Captured Details:
 
